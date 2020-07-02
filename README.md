@@ -58,4 +58,4 @@ Whereas with rollup version 2 you will get only one CSS file containing everythi
 main.2065939480.css
 ```
 
-This is not ideal if some route has a conflicting styles with the others. In this repro it might be not noticeable, but in a bigger project this behaviour might not be desired. Previously you can load the only necessary CSSes required for the current route, while in the case with rollup 2 all of those CSS bundled together into a single file.
+It is not ideal if some routes have conflicting styles with the others. In this repro it might be not too noticeable, but in a bigger project this behaviour might not be desired (I've experienced this in my own project). Previously you can load the only necessary CSSes required for the current route, while in the case with rollup 2 all of those CSS bundled together into a single file (no matther what route you're in).

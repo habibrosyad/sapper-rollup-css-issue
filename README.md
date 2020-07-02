@@ -9,17 +9,17 @@ The repo is a reproduction attempt of a CSS bundling issue in [sapper-template-r
 
 ```bash
 # for Rollup v1
-npx degit "habibrosyad/sapper-rollup-issue#rollupv1" rollup-v1
+npx degit "habibrosyad/sapper-rollup-css-issue#rollupv1" rollup-v1
 # for Roolup v2
-npx degit "habibrosyad/sapper-rollup-issue#rollupv2" rollup-v2
+npx degit "habibrosyad/sapper-rollup-css-issue#rollupv2" rollup-v2
 ```
 
 ### Using `git` to get started
 ``` bash
-git clone https://github.com/habibrosyad/sapper-rollup-issue
+git clone https://github.com/habibrosyad/sapper-rollup-css-issue
 
 # go to the project repo dir
-cd sapper-rollup-issue 
+cd sapper-rollup-css-issue 
 
 # for Rollup v1
 git checkout rollupv1

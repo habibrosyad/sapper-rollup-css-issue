@@ -1,6 +1,6 @@
 # sapper-rollup-css-issue
 
-The repo is a reproduction attempt of a CSS bundling issue in [sapper-template-rollup](https://github.com/sveltejs/sapper-template-rollup) when upgrading from rollup version 1 to 2. The issue summary can be seen in https://github.com/sveltejs/sapper-template/issues/233. 
+The repo is a reproduction attempt of a CSS bundling issue in [sapper-template-rollup](https://github.com/sveltejs/sapper-template-rollup) when upgrading from rollup version 1 to 2. The issue summary can be seen in https://github.com/sveltejs/sapper-template/issues/233 and https://github.com/rollup/rollup/issues/3655. 
 
 ## Getting started
 
